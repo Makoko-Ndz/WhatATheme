@@ -3,12 +3,12 @@ title: Test Page
 layout: page
 ---
 
-# This is heading 1
-## This is heading 2
-### This is heading 3
-#### This is heading 4
-##### This is heading 5
-###### This is heading 6
+# Titre niveau 1
+## Titre niveau 2
+### Titre niveau 3
+#### Titre niveau 4
+##### Titre niveau 5
+###### Titre niveau 6
 
 [This is a link](#)
 
