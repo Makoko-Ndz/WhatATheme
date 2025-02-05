@@ -2,23 +2,23 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'https://makoko-ndz.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: 'WhatATheme' 
 
 # Title of the Site
 title: Association Ndzouana
 # Description of the Site
 description: Site de publication de lassociation
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: # /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
-favicon-url: /WhatATheme/assets/images/Accacia.jpg
+favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: 
+heroimage: /WhatATheme/assets/images/Accacia.jpg
 # https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 
 # Social Media and Contact
